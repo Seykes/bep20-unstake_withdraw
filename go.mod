@@ -31,7 +31,7 @@ require (
 	github.com/prometheus/common v0.39.0 // indirect
 	github.com/prometheus/procfs v0.9.0 // indirect
 	github.com/rogpeppe/go-internal v1.9.0 // indirect
-	github.com/supranational/blst v0.3.11-0.20230406105308-e9dfc5ee724b // indirect
+	github.com/supranational/blst v0.3.11 // indirect
 	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc // indirect
 	golang.org/x/sync v0.3.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
